@@ -117,6 +117,7 @@ Here's the breakdown of the highest-rated books based on the dataset:
 | The Essential Calvin and Hobbes: A Calvin and Hobbes Treasury             | Bill Watterson    | 121,178           | 4.65           |
 | Manacled                                                                  | SenLinYu          | 83,579            | 4.65           |
 | A Court of Mist and Fury                                                  | Sarah J. Maas     | 1,956,057         | 4.65           |
+
 *Table of the top 10 highest ratings books*
 
 ### 3. Who are the authors with the highest average ratings?
@@ -195,6 +196,7 @@ Here's the breakdown of the top authors by average rating:
 | Stephen King         | 4.00           |
 | John Green           | 3.87           |
 | Stephenie Meyer      | 3.81           |
+
 *Table of the top 10 authors with the highest average ratings*
 ### 4. What are the genre statistics for top-rated authors?
 To identify the top-rated authors in various genres, I filtered the data to show the number of books each author has in different genres. This query highlights the most prolific authors and their dominance in specific genres.
