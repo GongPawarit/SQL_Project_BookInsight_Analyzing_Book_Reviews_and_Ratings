@@ -18,10 +18,6 @@
 ### book_genres.csv
     - book_id: Unique identifier for each book.
     - genre: Genre of the book.
-
-### genre_id.csv
-    - genre_id: Unique identifier for each genre.
-    - genre: Name of the genre.
 */
 
 WITH author_publications AS (
