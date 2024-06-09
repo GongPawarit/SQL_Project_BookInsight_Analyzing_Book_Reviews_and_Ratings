@@ -48,23 +48,3 @@ FROM
     TopAuthors AS ta
 ORDER BY 
     ta.avg_rating DESC;
-
-
-/*
-
-+-----------------------+-------------+
-|         author        | avg_rating  |
-+-----------------------+-------------+
-| Sarah J. Maas         |        4.39 |
-| Rick Riordan          |        4.31 |
-| J.K. Rowling          |        4.29 |
-| J.R.R. Tolkien        |        4.29 |
-| Taylor Jenkins Reid   |        4.23 |
-| Suzanne Collins       |        4.22 |
-| Colleen Hoover        |        4.03 |
-| Stephen King          |        4.00 |
-| John Green            |        3.87 |
-| Stephenie Meyer       |        3.81 |
-+-----------------------+-------------+
-
-*/
