@@ -1,11 +1,7 @@
 /*
-# 1.) Top 10 Most Published Authors Analysis
-    This SQL script identifies the top 10 authors with the highest number of published books from a given dataset.
-    The dataset comprises three CSV files: 'book_details.csv', 'book_genres.csv', and 'genre_id.csv'.
+Dataset Description
 
-## Dataset Description
-
-### book_details.csv
+book_details.csv
     - book_id: Unique identifier for each book.
     - book_title: Title of the book.
     - publication_info: Additional publication details.
@@ -15,7 +11,7 @@
     - average_rating: Average rating of the book.
     - publication_date: Date when the book was published.
 
-### book_genres.csv
+book_genres.csv
     - book_id: Unique identifier for each book.
     - genre: Genre of the book.
 */
