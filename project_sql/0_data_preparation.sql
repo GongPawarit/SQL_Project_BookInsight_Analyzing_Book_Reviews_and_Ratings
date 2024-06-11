@@ -23,7 +23,7 @@ SELECT *
 FROM genre_id;
 
 -- 2. Upload data
--- \copy book_details FROM '/Users/GongPawarit/Documents/study/personal_development/Data_Analyst_Projects/1_BookInsight_Analyzing_Book_Reviews_and_Ratings/csv_files/data/book_details.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
+-- \copy book_details FROM '/file_path' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
 
 -- 3. Remove Duplicate Records (Done)
 DELETE FROM book_details
